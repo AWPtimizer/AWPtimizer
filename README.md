@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehul Lodha</h1>
 <h3 align="center">Versatile Full Stack Developer with a passion for building scalable and efficient web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awptimizer&label=Profile%20views&color=0e75b6&style=flat" alt="awptimizer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AWPtimizer&label=Profile%20views&color=0e75b6&style=flat" alt="awptimizer" /> </p>
 
 - 🔭 I’m currently working on [Blogging WebApp](https://github.com/AWPtimizer/blogging-website)
 
